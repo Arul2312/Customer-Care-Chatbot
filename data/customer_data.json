@@ -1,0 +1,14 @@
+{
+  "customer_id": "CUST_67890",
+  "account_status": "good_standing",
+  "loyalty_tier": "gold",
+  "fraud_flag": "no",
+  "return_abuse": "no",
+  "account_age_months": 24,
+  "total_purchases": 156,
+  "lifetime_value": 3420.50,
+  "previous_returns": 8,
+  "last_return_date": "2024-01-15",
+  "region": "US_West",
+  "customer_since": "2022-07-15"
+}
