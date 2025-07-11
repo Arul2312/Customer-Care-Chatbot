@@ -34,7 +34,7 @@ proto/
 1. Clone the repository:
 ```bash
 git clone https://github.com/Arul2312/Customer-Care-Chatbot.git
-cd Customer-Care-Chatbot/proto
+cd Customer-Care-Chatbot
 ```
 
 2. Install dependencies:
