@@ -22,7 +22,6 @@ LLM-Chatbot/
 │   │   ├── decision_engine.py     # Core AI decision engine
 │   │   ├── mermaid_decision_tree.py # Flowchart logic
 │   │   ├── llm_conversation.py    # Conversation manager
-│   │   └── test_complete_requests.py # Test suite
 │   ├── data/
 │   │   └── customer_data.json     # Customer profile data
 │   ├── main.py                    # Application entry point
